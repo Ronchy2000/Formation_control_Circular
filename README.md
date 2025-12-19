@@ -5,7 +5,15 @@
 
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com) [![Language](https://img.shields.io/badge/Language-MATLAB-blue.svg)](https://www.mathworks.com/products/matlab.html) [![MATLAB Version](https://img.shields.io/badge/MATLAB-2023b%20or%20any-orange.svg)](https://www.mathworks.com/products/matlab.html)
 
+其他编队项目（友链）：
+- [Flocking-Formation-Control](https://github.com/Ronchy2000/Flocking-Formation-Control)：群集/编队控制相关实现
+- [Formation_Control_quadrangular](https://github.com/Ronchy2000/Formation_Control_quadrangular)：四边形编队控制实现
+
 本仓库包含了基于环形拓扑的无人机编队控制算法实现，分为2D平面编队和3D空间编队两种模式。
+
+我还有其他编队相关代码仓库，欢迎查看：
+- [Flocking-Formation-Control](https://github.com/Ronchy2000/Flocking-Formation-Control)：群体/编队协同控制的实现与实验
+- [Formation_Control_quadrangular](https://github.com/Ronchy2000/Formation_Control_quadrangular)：四边形编队控制实现
 
 ## 项目结构
 
@@ -94,7 +102,15 @@
 # UAV Formation Control Model
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com) [![Language](https://img.shields.io/badge/Language-MATLAB-blue.svg)](https://www.mathworks.com/products/matlab.html) [![MATLAB Version](https://img.shields.io/badge/MATLAB-2023b%20or%20any-orange.svg)](https://www.mathworks.com/products/matlab.html)
 
+Other formation projects (friend links):
+- [Flocking-Formation-Control](https://github.com/Ronchy2000/Flocking-Formation-Control): Flocking/formation control implementations
+- [Formation_Control_quadrangular](https://github.com/Ronchy2000/Formation_Control_quadrangular): Quadrangular formation control implementation
+
 This repository contains implementations of UAV formation control algorithms based on ring topology, divided into 2D planar formation and 3D spatial formation modes.
+
+I also maintain other formation-related repos:
+- [Flocking-Formation-Control](https://github.com/Ronchy2000/Flocking-Formation-Control): Flocking and formation coordination implementations and experiments
+- [Formation_Control_quadrangular](https://github.com/Ronchy2000/Formation_Control_quadrangular): Quadrangular formation control implementation
 
 ## Project Structure
 
